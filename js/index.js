@@ -52,7 +52,7 @@ let prms = fetch(url-of-the-data-location)
 // get the reference to your html element
 let dc = document.getElementById("dynamic-content");
 let er = document.getElementById("error");
-let url = "./partials/partial-1.html";
+let url = "https://github.com/khadija-ibra/sana-2/blob/gh-pages/partials/partial-1.html";
 
 
 let button = document.querySelectorAll('button');
